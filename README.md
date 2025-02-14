@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @okakc
 - 📞 My discord - okakc
-  📃 My telegram - okakc
+- 📃 My telegram - okakc
 - 🌱 I’m currently learning Python
 - ❤ I love Ks....
 
