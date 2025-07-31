@@ -2,7 +2,6 @@
 - 📞 My discord - okakc
 - 📃 My telegram - okakc
 - 🌱 I’m currently learning Python
-- ❤ I love Ks....
 
 <!---
 okakc/okakc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
