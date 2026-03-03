@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @okakc
-- 📞 My discord - okakc
-- 📃 My telegram - okakc
-- 🌱 I’m currently learning Python
+- 📞 My discord - mujchina42
+- 📃 My telegram - ArchKDE
 
 <!---
 okakc/okakc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
